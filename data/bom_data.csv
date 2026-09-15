@@ -1,0 +1,16 @@
+SKU,Product_Name,Component_ID,Component_Name,Component_Category,Component_Cost,Material_Type,Reusable
+DELL5420,Dell Latitude 5420,COMP001,Motherboard,Motherboard,180,PCB,Yes
+DELL5420,Dell Latitude 5420,COMP002,Display,Display,120,LCD,Yes
+DELL5420,Dell Latitude 5420,COMP003,Battery,Battery,60,Lithium-ion,Yes
+DELL5420,Dell Latitude 5420,COMP004,Keyboard,Input,35,Plastic/Metal,Yes
+DELL5420,Dell Latitude 5420,COMP005,SSD 512GB,Storage,55,Flash Memory,Yes
+HP840G7,HP EliteBook 840 G7,COMP006,Motherboard,Motherboard,170,PCB,Yes
+HP840G7,HP EliteBook 840 G7,COMP007,Display,Display,115,LCD,Yes
+HP840G7,HP EliteBook 840 G7,COMP008,Battery,Battery,55,Lithium-ion,Yes
+HP840G7,HP EliteBook 840 G7,COMP009,Keyboard,Input,32,Plastic/Metal,Yes
+HP840G7,HP EliteBook 840 G7,COMP010,SSD 512GB,Storage,50,Flash Memory,Yes
+LENOVO_T14,Lenovo ThinkPad T14,COMP011,Motherboard,Motherboard,190,PCB,Yes
+LENOVO_T14,Lenovo ThinkPad T14,COMP012,Display,Display,125,LCD,Yes
+LENOVO_T14,Lenovo ThinkPad T14,COMP013,Battery,Battery,65,Lithium-ion,Yes
+LENOVO_T14,Lenovo ThinkPad T14,COMP014,Keyboard,Input,38,Plastic/Metal,Yes
+LENOVO_T14,Lenovo ThinkPad T14,COMP015,SSD 512GB,Storage,58,Flash Memory,Yes

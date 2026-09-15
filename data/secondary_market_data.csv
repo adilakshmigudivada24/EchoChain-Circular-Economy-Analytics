@@ -1,0 +1,13 @@
+Listing_ID,Listing_Title,Product_Name,Listed_Price,Currency,Condition,Seller_Type,Listing_Date,Marketplace,Location
+L001,Dell Latitude 5420 i5 16GB Laptop,Dell Latitude 5420,320,USD,Used,Professional Seller,2025-06-01,MockMarket,USA
+L002,Dell Lat 5420 Business Notebook,Dell Latitude 5420,295,USD,Used,Individual Seller,2025-06-03,MockMarket,USA
+L003,DELL 5420 Core i5 Used Laptop,Dell Latitude 5420,310,USD,Refurbished,Professional Seller,2025-06-05,MockMarket,UK
+L004,Dell Latitude 5420 Laptop Refurbished,Dell Latitude 5420,340,USD,Refurbished,Professional Seller,2025-06-08,MockMarket,USA
+L005,HP EliteBook 840 G7 i5 Laptop,HP EliteBook 840 G7,280,USD,Used,Individual Seller,2025-06-02,MockMarket,USA
+L006,HP 840 G7 Business Laptop,HP EliteBook 840 G7,300,USD,Used,Professional Seller,2025-06-04,MockMarket,UK
+L007,HP EliteBook 840 G7 Refurb Laptop,HP EliteBook 840 G7,330,USD,Refurbished,Professional Seller,2025-06-07,MockMarket,USA
+L008,HP Elitebook 840 G7 Notebook,HP EliteBook 840 G7,290,USD,Used,Individual Seller,2025-06-10,MockMarket,Canada
+L009,Lenovo ThinkPad T14 Gen 1 Laptop,Lenovo ThinkPad T14,350,USD,Used,Professional Seller,2025-06-01,MockMarket,USA
+L010,Lenovo T14 Business Notebook,Lenovo ThinkPad T14,325,USD,Used,Individual Seller,2025-06-03,MockMarket,UK
+L011,ThinkPad T14 Refurbished Laptop,Lenovo ThinkPad T14,390,USD,Refurbished,Professional Seller,2025-06-06,MockMarket,USA
+L012,Lenovo Thinkpad T14 Gen1 i5,Lenovo ThinkPad T14,365,USD,Used,Professional Seller,2025-06-09,MockMarket,Canada

@@ -1,0 +1,16 @@
+Warranty_ID,SKU,Component_ID,Component_Name,Failure_Type,Claim_Date,Claim_Status,Repair_Cost,Replacement_Required
+W001,DELL5420,COMP001,Motherboard,Power Failure,2025-01-15,Closed,180,Yes
+W002,DELL5420,COMP001,Motherboard,No Boot,2025-02-10,Closed,180,Yes
+W003,DELL5420,COMP001,Motherboard,Power Failure,2025-03-05,Closed,180,Yes
+W004,DELL5420,COMP002,Display,Screen Flickering,2025-03-20,Closed,120,Yes
+W005,DELL5420,COMP003,Battery,Battery Drain,2025-04-12,Closed,60,Yes
+W006,DELL5420,COMP001,Motherboard,No Boot,2025-05-18,Closed,180,Yes
+W007,HP840G7,COMP006,Motherboard,No Boot,2025-01-22,Closed,170,Yes
+W008,HP840G7,COMP007,Display,Dead Pixels,2025-02-14,Closed,115,Yes
+W009,HP840G7,COMP008,Battery,Battery Drain,2025-03-11,Closed,55,Yes
+W010,HP840G7,COMP006,Motherboard,Power Failure,2025-04-09,Closed,170,Yes
+W011,HP840G7,COMP006,Motherboard,No Boot,2025-05-16,Closed,170,Yes
+W012,LENOVO_T14,COMP011,Motherboard,No Boot,2025-01-30,Closed,190,Yes
+W013,LENOVO_T14,COMP012,Display,Screen Flickering,2025-02-25,Closed,125,Yes
+W014,LENOVO_T14,COMP013,Battery,Battery Drain,2025-03-17,Closed,65,Yes
+W015,LENOVO_T14,COMP011,Motherboard,Power Failure,2025-04-21,Closed,190,Yes
